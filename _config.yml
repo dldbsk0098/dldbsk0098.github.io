@@ -24,13 +24,13 @@ repository               : "dldbsk0098/dldbsk0098.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yuna Lee"
+  pronouns         : "She/Her/Hers"  
+  bio              : "Policing, Crime/Deviance, Urban Sociology"
+  location         : "Albany, NY"
+  employer         : "University at Albany (SUNY)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ylee23@albany.edu" 
 
   # Academic websites
   academia         : # URL
