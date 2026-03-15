@@ -24,9 +24,9 @@ repository               : "dldbsk0098/dldbsk0098.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuna Lee"
-  pronouns         : "She/Her/Hers"  
-  bio              : "Policing, Crime/Deviance, Urban Sociology"
+  name             : Yuna Lee
+  pronouns         : She/Her/Hers
+  bio              : Policing, Crime/Deviance, Urban Sociology
   location         : "Albany, NY"
   employer         : "University at Albany (SUNY)"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0009-0000-3177-8075
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
