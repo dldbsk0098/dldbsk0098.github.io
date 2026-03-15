@@ -1,10 +1,12 @@
 ---
 permalink: /
+title: "Yuna Lee | Ph.D. Candidate in Sociology"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 Yuna Lee | Ph.D. Candidate in Sociology
 -----
 
