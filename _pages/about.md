@@ -1,12 +1,6 @@
----
-permalink: /
-title: "Yuna Lee | Ph.D. Candidate in Sociology"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
+Yuna Lee | Ph.D. Candidate in Sociology
+-----
 
 I am a P.hD. candidate in Sociology at the University at Albany, SUNY, specializing in urban sociology, criminology, racial inequality, and quantitative methodology. My research interests include gentrification, housing, policing, and spatial inequality.
 
